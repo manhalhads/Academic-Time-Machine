@@ -1,6 +1,0 @@
-Dear Students
-
-Your first assignment is to implement the Library Management System discussed in the class. Use the Java language.
-
-Goodluck
-Aamir Raheem
